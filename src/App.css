@@ -1,0 +1,23 @@
+#root {
+  width: 100%;
+  height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+input, select {
+  background: white;
+  width: 300px !important;
+}
+
+* {
+  color: black;
+  box-sizing: border-box;
+}
